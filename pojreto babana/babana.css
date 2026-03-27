@@ -1,0 +1,22 @@
+body {
+    background-color: blue;
+}
+.imagens {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    
+}
+.gif1 {
+    display: flex;
+    justify-content: left;
+    position: relative;
+    top: -350px;
+}
+.gif2 {
+    display: flex;
+    justify-content: right;
+    position: relative;
+    top: -650px;
+}
